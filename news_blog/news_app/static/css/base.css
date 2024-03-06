@@ -1,0 +1,15 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+header{
+      width: 100%;
+      position: sticky;
+      top: 0;
+      background: red;
+}
+
+footer{
+      width: 100%;
+      background: blue;
+}
